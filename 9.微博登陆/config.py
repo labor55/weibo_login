@@ -1,0 +1,3 @@
+ACCOUNT = "*******@sina.com"
+
+PASSWORD = '*********'
